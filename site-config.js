@@ -18,7 +18,7 @@ window.SITE_CONFIG = {
   /* --- Order form ---------------------------------------------------
      The link people click to order. Paste your Google Form's "Send"
      link here (the short forms.gle link is fine).                      */
-  orderFormUrl: "https://forms.gle/7w3ZTaXA9FoEfUWi8",
+  orderFormUrl: "https://forms.gle/wZffLy1d2rncF32i6",
 
   /* Optional: to show the form INSIDE the Order page, paste the long
      link that ends in "viewform" and add ?embedded=true on the end.
